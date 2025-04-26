@@ -1,1 +1,1 @@
-# interior-design-ai-support
+# Interior Design AI
